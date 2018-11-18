@@ -1,0 +1,37 @@
+## Vocabulary
+GRE quant is usually a cakewalk for most of us (Engineering Students), but Verbal Section can be a nightmare. GRE requires a firm hold on Vocabulary, i.e., not just its meaning but its meaning in the given context. There are many online resources that Provide GRE word lists like Magoosh list [Flash Cards](https://gre.magoosh.com/flashcards/vocabulary), Barrons List (333 words, 1300 words), Manhattan Word list and several Others. All these word lists can be viewed on their respective mobile or web apps available for free on Playstore. I followed Magoosh Flash Cards List and Barron's 333 words lists, and you can also follow [this Youtube](https://www.youtube.com/watch?v=N9oqR-C-E_E&list=PL0BE1A07536688372) link presented by Magoosh teachers and Pixanary app. These links were suggested to me, and it proved to be fruitful for me, and it is sufficient for GRE.
+
+### How to remember so many words?
+There is no best strategy for this, but I can suggest what I followed. I maintained Vocabulary notebook, and I started with Magoosh list. I wrote the word and its meanings, not only definitions I tried to form a sentence of my own or from Google or Merriam-webster. Construction of a sentence is a crucial aspect to understand the application of a particular word. I used to write 30 new words daily and revise all the words of last week and current week. Revisiting the same words helped me to keep it in memory. I reviewed nearly 100 old words and 30 new words daily without any gap. Once I completed my Magoosh list, I then moved on to Barron's list. Pixanary is also an excellent app to keep the mental picture of the word, which helps to keep it for a longer duration. 
+
+## Sentence Equivalence
+It contains one blank and 6 options to choose from and you have to choose 2 **most** correct answers from the choice. I have emphasized the word most because when you try to use those words you will find most of the choices plausible as the correct choice. Then **how to choose the best answer?** To find the most suitable answers from the given a choice look for the adjectives and adverbs which provides the context of the sentence. Pay special attention to [Transition Words](https://msu.edu/~jdowell/135/transw.html) such as therefore, however, but, and, nevertheless etc. These transition words play a very crucial role in changing the direction of the sentence. From my experience, the 6 choices contain 2 pairs of synonyms and 2 out of context choices. Out of those two pairs, one pair in the correct choice and the other one is just the opposite or out of context. So, to find the best possible choices look for synonyms pair. When I attempt for a sentence equivalence question I generally try to put my own answer before looking for choices, it helped me to find options nearest to my guess. If you do not guess your own answer you might eventually end up with the incorrect choice because most of the answer choices look possible in the sentence.
+
+## Text Completion
+There are three types of text completion questions, single blank, two blanks and three blanks. In this part, there is no partial marking given for partially correct answer choice. If one out of three choices is incorrect, the whole answer will be considered incorrect. I faced a lot of difficulty with these sets of problems because most of the times I used to get two out of three answers correct which would eventually end up in zero marking. So, to overcome this vexation, I applied the strategy that I discussed for Sentence Equivalence. I first read the whole sentence without looking at the answer choices. Then I try to guess my answers still not looking at the choices. Then when I am done with my guess, I try to find the answers that are nearest to my guess. This strategy helped me avoid trap answers which may be correct but not the best choice. For this section too you have to look for the transition words as discussed in Sentence Equivalence, these words play a crucial role in changing sentence direction. In both the sections **Text Completion and Sentence Equivalence** require a strong hold on Vocabulary. I improved as much as I practiced from sources such as Manhattan Books and Princeton's books whose links are given at the end. <br/>
+I have often come across a question that has double negations, for example,**Not Refuse**, which often lead to the confusing situation. In these types of questions convert it to the positive word like in above **Not Refuse** can be converted to **Accept**.
+
+## Reading Comprehension
+Reading Comprehension has one-third weight in total Verbal Section. Students find Reading comprehensions as the most confounding section. The question types were mainly of the following types- <br/>
+- What can be inferred from the passage?
+- Author's attitude can be best described as? for eg.-supporting, opposing etc.
+- The conclusion of the Passage.
+- Select the sentence that supports or oppose the conclusion of the passage.
+- Selection the option that most weakens the author's conclusion.
+- Select the option that most strengthens the author's conclusion. 
+- Select one or more.
+- Main Idea of the Passage.
+- Must or Could type questions. <br/>
+Do not remember the details given in the passage. Keep making very short notes while reading the passage. Read the passage at a medium stage. Do not read at very fast speed, because at the end of the passage its possible you might not remember what you just read. Maintain a medium stage and make sure you understand what you have just read. The strategy that I adopted for different types of questions- <br/>
+- For the author's attitude question keep checking whether the author is supporting the conclusion(defending), opposing the conclusion or skeptical.
+- To weaken the conclusion question select the option that gives some other causation rather than that mentioned in the paragraph.
+- The conclusion or main idea of the Passage is mostly (not always) found at the end or starting of the passage.
+- Check all the choice before marking the answer because we need to consider the best option not only that supports.
+- Read the first question of the passage first and then start reading the Passage, it will help you keep involved in the passage.
+- **Feign Enthusiasm** while reading the passage. Show interest while you are reading the passage. Showing interest will help you to be involved in the passage throughout. If you start losing interest, you may not understand the passage well.
+
+## Link to study material
+1. [Manhattan PDFs](https://drive.google.com/drive/u/1/folders/0B_l0Dbuo0Fm2bGZtMFZGYXhyMmM)
+2. [Princeton Review 1014](https://drive.google.com/drive/u/1/folders/0B_l0Dbuo0Fm2bGZtMFZGYXhyMmM)
+3. [Links to ETS GRE guides PDF version.](https://www.test-guide.com/free-gre-practice-tests.html) <br/>
+These links will provide sufficient study material and Practice questions. The study material provided by the ETS GRE website resembles closest to actual GRE. So, make sure to practice well from ETS guides.

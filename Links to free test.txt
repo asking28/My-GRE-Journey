@@ -1,0 +1,9 @@
+### These links are all timed tests. With no personal bias. <br/>
+1. [Crunch Prep Links to numerous free tests](https://crunchprep.com/gre/2014/free-gre-practice-tests) by Kaplan, Princeton Review, Crunch Prep, Manhattan Prep.
+2. [Test Prep and Test Simulation Software](https://github.com/RajibTheKing/HSA/find/master), this GitHub link provides links to PDF versions of study material and Kaplan's Test Simulation Software.
+3. [Mc Graw Hills](http://www.mhpracticeplus.com/gre.php), these tests are Part wise, both Verbal and Quant.
+4. [Manhattan Prep Paid Test Series](http://manhattanprep.com/gre/), Manhattan Prep provides test series of 6 tests for 39$, and you can reset them and take them as many time as you want. It has a validity of 6 months. You can also resell them if you want.
+- Just personal advice. If you are buying a test series, purchase it from Manhattan, Kaplan, Princeton Review or Official GRE web site. They are more close to actual GRE as compared to other online resources.
+- Will be providing more links as I come across or remember them.
+- Go through these links; these tests have helped me the most during my preparation.
+- Keep logs of your all the tests and test errors. You can write them down in your notebook so that you do not repeat them the next time. You can also note down the strategy to solve that question correctly.
